@@ -1,0 +1,17 @@
+{
+  "name": "create-react-component",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Enboarder - Create React Claudio",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "bin": {
+    "create-react-component": "./index.js",
+    "crc": "./index.js"
+  },
+  "author": "enboarder",
+  "dependencies": {
+    "shelljs": "0.8.3"
+  }
+}
